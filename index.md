@@ -1,5 +1,5 @@
 ## 这里是 Lipus Studio 的 Github 主页！
-•Windows Longhorn 10 Concept (https://lipus-trw.github.io/WLGC/) 
+[•Windows Longhorn 10 Concept](https://lipus-trw.github.io/WLGC/) 
 
 
 •Gemini OS (正在开发，暂不开放) 
