@@ -1,6 +1,4 @@
-#### 这里是 Lipus Studio 的 GitHub 主页！
-
-## Windows 10 更新体验
+# Windows 10 更新体验
 [•Windows 10 Build 21301](https://www.bilibili.com/video/BV1Ny4y1J7Ki)
 
 [•Windows 10 v20H2](https://www.bilibili.com/video/BV1pT4y1c7TT)
@@ -11,7 +9,7 @@
 
 [•Windows 10X](https://www.bilibili.com/video/BV1S7411w7SM)
 
-## Windows Beta 系统考古体验
+# Windows Beta 系统考古体验
 [•Windows Longhorn 4074](https://www.bilibili.com/video/BV1R4411q7WY)
 
 [•Windows 8 8012](https://www.bilibili.com/video/BV1nE41197SZ)
@@ -29,7 +27,7 @@
 [•Windows Longhorn 4074 Sigma OS 3.0 安装](https://www.bilibili.com/video/BV1w741167aT)
 
 [•Windows Longhorn 4074 Sigma OS 3.0 体验](https://www.bilibili.com/video/BV1w7411x75Y)
-## PowerPoint OS 专区
+# PowerPoint OS 专区
 [•Windows Longhorn 10 Concept Series](https://lipus-trw.github.io/WLGC/)
 
 
